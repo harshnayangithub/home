@@ -1,0 +1,5 @@
+g++ filename.cpp -o outputname
+./outputname
+
+javac Filename.java
+java Filename
